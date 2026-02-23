@@ -111,8 +111,6 @@ options = {
 - 🔹 **Vidéo du Mapping**  
   👉 https://www.youtube.com/watch?v=MzK-br3qQME
 
-⚠️ Assurez-vous que `ox_lib` s'il te bien installés et démarrés avant le dossier.
-
 ---
 
 ## 📥 Installation
