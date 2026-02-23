@@ -128,5 +128,6 @@ Ajoutez les lignes suivantes dans votre `server.cfg` :
 ```cfg
 ensure ox_lib
 ensure ox_target
+ensure es_extended
 ensure chops_bmx
 ```
