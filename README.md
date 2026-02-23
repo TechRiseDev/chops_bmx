@@ -1,8 +1,8 @@
 # 🚲 Système Shop de BMX FiveM
 
-`Ce script est entièrement modifiable et adaptable le selon vos besoins.`
+Script de location de vélos BMX pour les serveur role play FiveM.
 
-Script de location de vélos (BMX & autres) pour serveur FiveM.
+`Ce script est entièrement modifiable et adaptable le selon vos besoins.`
 
 Le Prix part defaut :
 
